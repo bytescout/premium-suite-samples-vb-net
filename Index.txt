@@ -214,6 +214,7 @@
 \Generate ean-8 barcode with barcode sdk
 \Generate gs1 datamatrix barcode with barcode sdk
 \Generate gs1 qr code barcode with barcode sdk
+\Generate gs1-128 barcode with barcode sdk
 \Generate isbn barcode with barcode sdk
 \Generate jan-13 barcode with barcode sdk
 \Generate macro pdf417 (multiple)  barcode with barcode sdk
